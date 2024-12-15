@@ -1,4 +1,4 @@
-#### Data Analytics Assignment for upliance.ai
+# Data Analytics Assignment for upliance.ai
 
 ## Overview
 This project analyzes user behavior, cooking preferences, and order trends for a hypothetical AI-powered cooking assistant. The primary objectives are to:
@@ -63,7 +63,7 @@ The repository contains the following files:
    ```
 2. Run the Python script:
    ```bash
-   python upliaceassignment.py
+   python analysis.py
    ```
 3. Review the generated visualizations and the `Report.txt` file for insights.
 
